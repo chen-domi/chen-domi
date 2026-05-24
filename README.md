@@ -1,25 +1,10 @@
-<h1 align="center"> Hi 👋 I'm Dominic Chen </h1>
-<h2>About Me:</h2>
-<p> I am a second-year student at Boston College, deeply passionate about technology, innovation, and the power of software to solve real-world problems. My journey is driven by a curiosity for emerging tech and a desire to create impactful products that make a difference. I enjoy turning ideas into tangible software solutions and am always eager to learn, collaborate, and work at the intersection of creativity and technology.</p>
-<h2>Portfolio</h2> 
+<h1 align="center">Hi 👋 I'm Dominic Chen</h1>
+<h2>About Me</h2>
+<p>Rising junior at Boston College studying Computer Science and pursuing a minor in Mathematics, focused on quantitative development — building the pricing engines, execution infrastructure, and performance-critical systems that power modern trading.</p>
+<p>I'm drawn to the intersection of rigorous mathematics, systems-level thinking, high-performance software, and high ownership. Currently deepening my C++ and exploring derivatives pricing and numerical methods.</p>
+<h2>Portfolio</h2>
 <p>https://dominicchen.vercel.app/</p>
 <h2>Tech Stack</h2>
-<!-- <p>Languages: <img src="https://camo.githubusercontent.com/7824e03d0cd79f85b8b451bb1dea72245d8ecbf39275389ac2df0a3ee9eb5a55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d2532333337373641422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"/>
-<img src="https://camo.githubusercontent.com/6d9ad4becc2d73ac5cefacc1370a6c37458f272a553046ea5e2b8351ea185747/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"/>
-<img src="https://camo.githubusercontent.com/4949fe954bbdfb18d817aa3045bc8a6cc619291bd6942b9d3a561741c3b58c61/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73716c2d2532333037343035652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465"/>
-<img src="https://camo.githubusercontent.com/29d02b3669d6450d67e043cf5909e740dcb94c1e2306d88ac48b15b4ec55dc65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"/>
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://camo.githubusercontent.com/d4d9d935f85b68223a3514c6a889ea3ed6a77afb5f560c05baa1a1b168077830/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"/>
-<img src="https://camo.githubusercontent.com/21c96b28e33fe34eeae668ef6fc1daf2b4b87bdf22e8482ad32d87f1d2474277/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6373732d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"/>
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-</p>
-<p>Libraries/Frameworks: 
-<img src="https://camo.githubusercontent.com/4aed80090cf6326364d8fbc173e9d307293da717b071823b37d3514afcbcd98e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465"/>
-<img src="https://camo.githubusercontent.com/924b1643b42f4aded04442af6a5cbab25c6c25c7570ab924b9d1e1412f536225/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e675f426f6f742d4632463446393f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e672d626f6f74"/>
-<img src="https://camo.githubusercontent.com/c9a85f6869aa992f1500dd9d4d4bdff7d405605292ca152587394c1f92552d4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465"/>
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-</p>
-<p>Developer Tools:
-<img src="https://camo.githubusercontent.com/94d83dc5838e2784bee25fe9e019bc2fda128676f32cef2f06baa0f6f3849b8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"/>
-</p> -->
+<p><strong>Languages:</strong> C++ · Python · SQL</p>
+<p><strong>Libraries:</strong> NumPy · Pandas · Matplotlib · yfinance</p>
+<p><strong>Tools:</strong> Git · Docker</p>
