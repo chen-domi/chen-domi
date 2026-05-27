@@ -5,6 +5,6 @@
 <h2>Portfolio</h2>
 <p>https://dominicchen.vercel.app/</p>
 <h2>Tech Stack</h2>
-<p><strong>Languages:</strong> C++ · Python · SQL</p>
+<p><strong>Languages:</strong> C++ · Python · SQL · TypeScript · JavaScript · HMTL/CSS</p>
 <p><strong>Libraries:</strong> NumPy · Pandas · Matplotlib · yfinance</p>
 <p><strong>Tools:</strong> Git · Docker</p>
