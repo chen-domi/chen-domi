@@ -6,5 +6,5 @@
 <p>https://dominicchen.vercel.app/</p>
 <h2>Tech Stack</h2>
 <p><strong>Languages:</strong> C++ · Python · SQL · TypeScript · JavaScript · HMTL/CSS</p>
-<p><strong>Libraries:</strong> NumPy · Pandas · Matplotlib · yfinance · Node.js · Next.js · React.js</p>
+<p><strong>Libraries:</strong> NumPy · Pandas · Matplotlib · yfinance · Node.js · Next.js · React.js, PostgreSQL, MySQL</p>
 <p><strong>Tools:</strong> Git · Docker</p>
